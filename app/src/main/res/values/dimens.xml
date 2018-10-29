@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_cardview">5dp</dimen>
+    <dimen name="txt_10">10dp</dimen>
+    <dimen name="txt_12">12dp</dimen>
+    <dimen name="txt_14">14dp</dimen>
+    <dimen name="txt_16">16dp</dimen>
+    <dimen name="txt_18">18dp</dimen>
+    <dimen name="txt_20">20dp</dimen>
+    <dimen name="txt_24">24dp</dimen>
+
+    <dimen name="txt_10s">10sp</dimen>
+    <dimen name="txt_11s">11sp</dimen>
+    <dimen name="txt_12s">12sp</dimen>
+    <dimen name="txt_14s">14sp</dimen>
+    <dimen name="txt_16s">16sp</dimen>
+    <dimen name="txt_18s">18sp</dimen>
+    <dimen name="txt_20s">20sp</dimen>
+    <dimen name="txt_24s">24sp</dimen>
+    <dimen name="txt_28s">28sp</dimen>
+
+    <dimen name="txt_60">60dp</dimen>
+
+    <dimen name="drawer_width">250dp</dimen>
+</resources>
